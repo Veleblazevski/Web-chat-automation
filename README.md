@@ -1,7 +1,3 @@
-This is a task for TestDevLab.
-
-Clone the repository,from my github account.
-
 Run npm install.
 
 Double check for faker,if installed.
